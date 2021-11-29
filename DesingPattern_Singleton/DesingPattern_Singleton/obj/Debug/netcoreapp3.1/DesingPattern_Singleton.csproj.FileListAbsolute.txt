@@ -1,0 +1,36 @@
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.exe
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.deps.json
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.runtimeconfig.json
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.runtimeconfig.dev.json
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.dll
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.pdb
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.csproj.AssemblyReference.cache
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.MenuPrincipal.resources
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.csproj.GenerateResource.cache
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.AssemblyInfoInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.AssemblyInfo.cs
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.dll
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.pdb
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.genruntimeconfig.cache
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.VentanaAzul.resources
+C:\Users\Javier Hernández\Documents\Universidad\7° Cuatrimestre\Arquitecturas de Software\Parcial 3\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.VentanaVerde.resources
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.exe
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.deps.json
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.runtimeconfig.json
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.runtimeconfig.dev.json
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.dll
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\bin\Debug\netcoreapp3.1\DesingPattern_Singleton.pdb
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.csproj.AssemblyReference.cache
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.menuPrincipal.resources
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.VentanaAzul.resources
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.VentanaVerde.resources
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.csproj.GenerateResource.cache
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.AssemblyInfoInputs.cache
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.AssemblyInfo.cs
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.csproj.CoreCompileInputs.cache
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.dll
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.pdb
+C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\obj\Debug\netcoreapp3.1\DesingPattern_Singleton.genruntimeconfig.cache

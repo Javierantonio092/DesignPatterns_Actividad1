@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPCZMddoF1ik9OKTJWi80+4Y66itxQtElOVwiguh4DCIiHzVedrCgP+I4xEZq37te91KbGK06B6C6wx5ih4mCg==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo2021\\GitHub\\DesignPatterns_Actividad1\\DesingPattern_Singleton\\DesingPattern_Singleton\\DesingPattern_Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manuel.toledano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\manuel.toledano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\manuel.toledano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\manuel.toledano\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

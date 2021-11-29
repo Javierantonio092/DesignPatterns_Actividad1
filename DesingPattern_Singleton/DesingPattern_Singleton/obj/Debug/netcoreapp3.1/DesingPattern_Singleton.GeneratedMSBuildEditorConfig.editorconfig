@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = DesingPattern_Singleton
+build_property.ProjectDir = C:\Desarrollo2021\GitHub\DesignPatterns_Actividad1\DesingPattern_Singleton\DesingPattern_Singleton\
