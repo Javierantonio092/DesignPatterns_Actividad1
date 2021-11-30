@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "323b3e5a-94d4-474c-9ffd-5270ea3d3942": {
+      "ProjectGuid": "323b3e5a-94d4-474c-9ffd-5270ea3d3942",
+      "DisplayName": "DesignPatterns_Adapter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

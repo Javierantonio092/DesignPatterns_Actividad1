@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\bin\Debug\net6.0\DesignPatterns_Adapter.exe
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\bin\Debug\net6.0\DesignPatterns_Adapter.deps.json
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\bin\Debug\net6.0\DesignPatterns_Adapter.runtimeconfig.json
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\bin\Debug\net6.0\DesignPatterns_Adapter.dll
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\bin\Debug\net6.0\ref\DesignPatterns_Adapter.dll
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\bin\Debug\net6.0\DesignPatterns_Adapter.pdb
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.dll
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\ref\DesignPatterns_Adapter.dll
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.pdb
+C:\Users\Gabriel\Documents\DesignPattern_Adapter\DesignPatterns_Adapter\obj\Debug\net6.0\DesignPatterns_Adapter.genruntimeconfig.cache
